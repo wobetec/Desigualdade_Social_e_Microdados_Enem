@@ -1,0 +1,10 @@
+data/microdados_enem_2023/
+data/compare_models.csv
+data/compiled.feather
+data/filtered_cat.feather
+data/filtered.feather
+data/full_model.csv
+data/intercept_model.csv
+data/microdados_enem_2023.zip
+data/UF_effect.csv
+src/images
